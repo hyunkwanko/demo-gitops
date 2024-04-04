@@ -5,5 +5,5 @@ resources:
 - vas-deploy.yaml
 - vas-ing.yaml
 images:
-- name: saturn203/vas
+- name: cjdshrwkd11/vas
   newTag: 0.0.1
