@@ -6,4 +6,4 @@ resources:
 - vas-ing.yaml
 images:
 - name: cjdshrwkd11/vas
-  newTag: 0.0.2
+  newTag: 0.0.3
